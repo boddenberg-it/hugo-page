@@ -10,6 +10,10 @@ Turmstr. 68 b
 10551 Berlin
 <br>
 <br>
-Mail: info@boddenberg.it
+USt-Id-Nr: ???????????
 <br>
-Fon: +49 30 120 84 132
+<br>
+mail: <a href="mailto:andre@boddenberg.it">andre@boddenberg.it</a>
+<br>
+<br>
+fon: <a href="tel://+493012084132">+49 30 120 84 132</a>
