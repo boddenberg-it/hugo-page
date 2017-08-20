@@ -1,0 +1,32 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="intro">
+        <h3 class="header-text" style="font-size: 34pt">{{ .Site.Title }}</h3>
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+    </div>
+    <br>
+
+    <div class="text-justify">
+      <p>{{ markdownify .Site.Params.Description_ci }}</p>
+    </div>
+    <br>
+
+    <div class="text-justify">
+      <p>{{ markdownify .Site.Params.description_smart_data }}</p>
+    </div>
+    <br>
+
+    <div class="text-justify">
+      <p>{{ markdownify .Site.Params.Description_web }}</p>
+    </div>
+    <br>
+
+    <div class="text-justify">
+      <p>{{ markdownify .Site.Params.Description_infosec }}</p>
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
