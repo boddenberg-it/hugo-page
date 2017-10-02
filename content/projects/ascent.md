@@ -3,7 +3,6 @@ title: "ascent"
 date: 2017-08-20
 description: "Ascent is designed to encourage E2E tests for R&D cellular networks (2/3/4G) by simplifying the process of testing fundamental functionalities (CS/PS) such as making a call, sending a SMS and verify data connectivity (UP/DL) with 2 Android devices as subscribers (MS/UE)."
 tags: ['android', 'telecommunication', 'testing']
-slug: "slug"
 ---
 
 ## **A**ndroid ~~**S**emiautomated~~ **CE**lullar **N**etwork **T**esting

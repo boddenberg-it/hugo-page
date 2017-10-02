@@ -1,9 +1,7 @@
 +++
-title = "Impressum"
 date = "2017-08-19T12:37:52+02:00"
-description = "§ 5 TMG / § 55 RStV"
+description = " "
 +++
-
 André Boddenberg <br>
 Turmstr. 68 b <br>
 10551 Berlin <br>
