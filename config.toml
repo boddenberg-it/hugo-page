@@ -43,8 +43,8 @@ weight = 6
     font = "Raleway" # should match the name on Google Fonts!
 
     highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightStyle = "github"
+    highlightLanguages = ["bash", "shell", "java", "groovy", "docker", "python", "go", "kotlin", "scala", "swift"]
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
