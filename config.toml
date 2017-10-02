@@ -1,6 +1,6 @@
 baseURL = "http://localhost/"
 languageCode = "en-us"
-title = "boddenberg.it"
+title = ""
 theme = "minimal"
 
 [[menu.main]]
@@ -35,7 +35,7 @@ weight = 6
 
 [params]
     author = "André Boddenberg"
-    description = "CI focused IT consulting<br><br><a href=\"/services\">see our services</a>"
+    description = "<font size=\"7\" color=\"black\">boddenberg.it</font><br>CI focused IT consulting<br><br><a href=\"/services\">see our services</a>"
     githubUsername = "boddenberg-it"
     accent = "green"
     showBorder = true
