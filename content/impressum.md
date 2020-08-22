@@ -3,8 +3,8 @@ date = "2017-08-19T12:37:52+02:00"
 description = " "
 +++
 André Boddenberg <br>
-Turmstr. 68 b <br>
-10551 Berlin <br>
+Rheinsberger Str. 28 <br>
+10435 Berlin <br>
 <br>
 Mail: <a href="mailto:andre@boddenberg.it">andre@boddenberg.it</a><br>
 <br>
